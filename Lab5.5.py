@@ -18,7 +18,7 @@ print("Hello User! Welcome to the PrimeNumbersInARangeFinder 2000. Clever name r
 
 import math
 
-# intilize a list to hold prime numbers
+# intialize a list to hold prime numbers
 a = []
 
 
@@ -38,7 +38,7 @@ def is_Prime(n):
     print("error in is_prime")
 
 
-# Gets values and ensures that inputed integers are sequencial positive real numbers
+# Gets values and ensures that inputed integers are sequential positive real numbers
 def get_Nums():
     n = int(input("Enter first number in range:"))
     n2 = int(input("Enter the last number in range:"))
