@@ -1,7 +1,7 @@
 ######################################################
 #
-#   This program ask the user for a range of
-#   numbers and returns a list of prime
+#   Asks the user for a range of
+#   numbers and returns a list of prime.
 #
 #   Author:  Tigris Mendez
 #
